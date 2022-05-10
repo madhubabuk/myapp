@@ -7,6 +7,7 @@ import org.apache.tomcat.util.codec.binary.Base64;
 public class MyUtil {
 
 	public static void main(String[] args) {
+		System.out.println("here 1");
 		// TODO Auto-generated method stub
 		 String adminuserCredentials = "user:passwd";
 	        String encodedCredentials =
