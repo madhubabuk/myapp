@@ -19,6 +19,7 @@ public class MyUtil {
 			 * httpHeaders.setAccept(Arrays.asList(MediaType.APPLICATION_JSON)); return
 			 * httpHeaders;
 			 */
+		/* test code */
 	}
 
 }
